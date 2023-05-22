@@ -21,7 +21,7 @@ else:
     print("that is not correct!")
     sys.exit()
 
-print("Time for maths!")
+print("Time secure maths!")
 
 cheese = chez.randint(1,100)
 
